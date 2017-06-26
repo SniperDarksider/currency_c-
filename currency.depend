@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1498476983 source:d:\codeblocks\currency\main.cpp
+	<iostream>
+	"currency.h"
+
+1498476951 d:\codeblocks\currency\currency.h
+	<iostream>
+
+1498478074 source:d:\codeblocks\currency\currency.cpp
+	<iostream>
+	"currency.h"
+	<exception>
+
